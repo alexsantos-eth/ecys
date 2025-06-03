@@ -27,7 +27,7 @@
 - https://github.com/alexsantos-eth/proyecto01-edd
 - https://github.com/alexsantos-eth/hanoi-towers
 
-### MIAss
+### MIAs
 - https://github.com/alexsantos-eth/ext3-fs
 - https://github.com/alexsantos-eth/practica01-mia
 
